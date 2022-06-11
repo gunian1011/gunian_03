@@ -4,8 +4,13 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
-  background: url('/assets/images/login_bg.jpg') no-repeat center;
+  /* background-color: red; */
+  background: url('/后台管理/assets/images/login_bg.jpeg') no-repeat center;
   background-size: cover;
+}
+
+.logo {
+  width: 400px;
 }
 
 .loginAndRegBox {
@@ -15,12 +20,12 @@ body {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%,-50%);
 }
 
 .title-box {
   height: 60px;
-  background: url('/assets/images/login_title.png') no-repeat center;
+  background: url(/后台管理/assets/images/login_title.png) no-repeat center;
 }
 
 .reg-box {
