@@ -1,3 +1,7 @@
+.layui-logo img{
+  width: 200px;
+}
+
 .layui-footer {
   text-align: center;
   font-size: 12px;
@@ -49,8 +53,8 @@ a {
   background-color: #009688;
   border-radius: 50%;
   line-height: 40px;
-  text-align: center;
   font-size: 20px;
+  text-align: center;
   color: #fff;
   position: relative;
   top: 4px;
